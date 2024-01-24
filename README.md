@@ -20,6 +20,7 @@ Imported necessary libraries including numpy, pandas, seaborn, and set up the si
 1)Calculated the amount difference and percentage difference in total rewards between Thompson Sampling and Random Selection.
 
 2)Plotted histograms comparing the count of strategy selections for both methods.
+
 ![Strategy_selection_count_comparison.png]
 
 ### Strategy Selection Visualizations:
