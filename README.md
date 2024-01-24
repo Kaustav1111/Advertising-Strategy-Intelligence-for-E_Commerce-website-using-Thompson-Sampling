@@ -21,7 +21,7 @@ Imported necessary libraries including numpy, pandas, seaborn, and set up the si
 
 2)Plotted histograms comparing the count of strategy selections for both methods.
 
-![Strategy_selection_count_comparison.png]
+![Strategy_selection_count_comparison.png](https://github.com/Kaustav1111/Advertising-Strategy-Intelligence-for-E_Commerce-website-using-Thompson-Sampling/blob/main/Strategy_selection_count_comparison.png)
 
 ### Strategy Selection Visualizations:
 
