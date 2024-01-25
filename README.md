@@ -31,6 +31,7 @@ Visualized the ad selection pattern for both strategies over rounds, highlightin
 ### Regret Curves:
 
 Computed and visualized regret curves for both Random Selection and Thompson Sampling over the course of the simulation.
+
 ![random.png](https://github.com/Kaustav1111/Advertising-Strategy-Intelligence-for-E_Commerce-website-using-Thompson-Sampling/blob/main/random.png) ![regret_curve_thompson.png](https://github.com/Kaustav1111/Advertising-Strategy-Intelligence-for-E_Commerce-website-using-Thompson-Sampling/blob/main/regret_curve_thompson.png)
 
 ### Performance Metrics:
